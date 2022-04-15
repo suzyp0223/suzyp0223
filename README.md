@@ -11,7 +11,7 @@
 <br>
 
 
-### **📞 contact me** 
+### **📞 About ME** 
 <br> 
 
 [![Tstory](https://img.shields.io/badge/Tstory-F7DF1E?style=for-the-badge&logo=Tstory&logoColor=black "suzy_pak 코딩블로그")](https://ppojjakcoding.tistory.com)
