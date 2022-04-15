@@ -11,11 +11,11 @@
 <br>
 
 
-### **📞 contact me**
-[![Tstory](https://img.shields.io/badge/Tstory-F7DF1E?style=for-the-badge&logo=Tstory&logoColor=black "suzy_pak 코딩블로그")](https://ppojjakcoding.tistory.com)<br>
-![Email](https://img.shields.io/badge/email-FF9E0F?style=for-the-badge&logo=email&logoColor=black "suzyp0223@gmail.com")<br>
-- suzyp0223@gmail.com
-- 2021234@naver.com
+### **📞 contact me** 
+<br> 
+
+[![Tstory](https://img.shields.io/badge/Tstory-F7DF1E?style=for-the-badge&logo=Tstory&logoColor=black "suzy_pak 코딩블로그")](https://ppojjakcoding.tistory.com)
+### suzyp0223@gmail.com
 <br><br>
 
 ### **💎 Tech**
