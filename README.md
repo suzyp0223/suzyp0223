@@ -14,7 +14,7 @@
 ### **📣 About ME** 
 <br> 
 
-[![Tistory](https://img.shields.io/badge/Tstory-F7DF1E?style=for-the-badge&logo=Tstory&logoColor=black "suzy_pak 코딩블로그")](https://ppojjakcoding.tistory.com)
+[![Tistory](https://img.shields.io/badge/Tistory-F7DF1E?style=for-the-badge&logo=Tistory&logoColor=black "suzy_pak 코딩블로그")](https://ppojjakcoding.tistory.com)
 ### suzyp0223@gmail.com
 <br><br>
 
