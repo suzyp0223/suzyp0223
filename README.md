@@ -45,10 +45,6 @@
 </p>
 <br><br>
 
-<!-- readme-status-card -->
-<!-- redme status care theme   /dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula/
-<img src="https://github-readme-stats.vercel.app/api?username=suzyp0223&show_icons=true&count_private=true&line_height=24" style="width: 492px"> 
--->
 
 <div align="center">  
 <img src="https://github-readme-stats.vercel.app/api?username=suzyp0223&show_icons=true&theme=dracula&count_private=true&line_height=24" style="width: 492px">
