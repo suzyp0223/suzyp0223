@@ -45,8 +45,3 @@
 </p>
 <br><br>
 
-
-<div align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=suzyp0223&show_icons=true&theme=dracula&count_private=true&line_height=24" style="width: 492px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzyp0223&layout=compact&theme=gruvbox&langs_count=5&line_height=17" style="width: 492px" >  
-</div>
