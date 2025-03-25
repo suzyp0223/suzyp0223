@@ -5,7 +5,7 @@
 
 <div align="center"> 
 <h3> 
-😄 Hi there I'm suzy looking for a job as a junior backend developer. 
+😄 Hi there I'm suzy looking for a job as a backend / Frontend developer. 
   <br>
   I’m currently learning things below 
 </h3>
@@ -26,6 +26,8 @@
 <img src="https://img.shields.io/badge/node.js-2088FF?style=for-the-badge&logo=Node.js&logoColor=white">
 <img alt="Express.js" src ="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black">
+<img src="https://img.shields.io/badge/react-2088FF?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img alt="mongoose" src ="https://img.shields.io/badge/mongoose-61DAFB?&style=for-the-badge&logo=mongoose&logoColor=white"/>
 </br>
