@@ -1,5 +1,5 @@
 
-<p align="center"><img src="![suzypark](https://github.com/user-attachments/assets/d765d436-76cd-48c8-b8c7-f601b96dda28)" />
+<p align="center"><img src="https://github.com/user-attachments/assets/d765d436-76cd-48c8-b8c7-f601b96dda28" />
 </p>
 
 
