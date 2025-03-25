@@ -1,12 +1,15 @@
 
-<p align="center"><img src="https://user-images.githubusercontent.com/84648177/163575439-ead0a308-bda7-44cd-8402-dd5ba694fe8f.jpg" />
+<p align="center"><img src="![suzypark](https://github.com/user-attachments/assets/d765d436-76cd-48c8-b8c7-f601b96dda28)" />
 </p>
+
+
 <div align="center"> 
 <h3> 
 😄 Hi there I'm suzy looking for a job as a junior backend developer. 
   <br>
   I’m currently learning things below 
 </h3>
+
 </div>
 <br>
 
